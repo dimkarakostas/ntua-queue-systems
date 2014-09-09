@@ -6,8 +6,8 @@ You need **main.cpp**, **Makefile**, a recent C++11 Compiler and Standard Librar
 
 Usage
 ---------------------
-After compiling run **$ ./main** to get usage message.
-To simulate the system with threshold (K, λ) = (1,1), where the simulation stops after 10.000 succesful arrivals in the queue, give $ ./main 1 1
+After compiling run **$ ./main** to get usage message. The simulation stops after 10.000 succesful arrivals in the queue.
+To simulate the system with threshold and input rate (K, λ) = (1, 1), give **$ ./main 1 1**.
 
 Script
 ---------------------
