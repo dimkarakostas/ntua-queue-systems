@@ -12,3 +12,5 @@ To simulate the system with threshold and input rate (K, λ) = (1, 1), give **$ 
 Script
 ---------------------
 To simulate the system under configurations of K and λ, run the shell script with **$ ./run.sh**. It runs all simulations for the given ranges of K and λ and produces all results in different files for each input.
+
+**This code is for educational purposes only, do not try to use it in serious context.**
